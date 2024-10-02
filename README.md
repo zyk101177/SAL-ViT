@@ -1,5 +1,5 @@
 # SAL-ViT
-Repository for SAL-ViT: Towards latency-efficient private inference on ViT using Selective Attention Search with a learnable softmax approximation.
+Repository for SAL-ViT: Towards latency-efficient private inference on ViT using Selective Attention Search with a learnable softmax approximation. [Read the full paper here](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_SAL-ViT_Towards_Latency_Efficient_Private_Inference_on_ViT_using_Selective_ICCV_2023_paper.pdf)
 
 ---
 
